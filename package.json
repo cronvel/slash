@@ -1,0 +1,44 @@
+{
+  "name": "ngsh",
+  "version": "0.0.0",
+  "description": "A Node.js shell.",
+  "main": "lib/Ngsh.js",
+  "engines": {
+    "node": ">=4.5.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bin": {
+    "ngsh": "./bin/ngsh"
+  },
+  "dependencies": {
+    "async-kit": "^2.2.3",
+    "minimist": "^1.2.0",
+    "string-kit": "^0.5.15",
+    "terminal-kit": "^0.27.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/ngsh.git"
+  },
+  "keywords": [
+    "shell"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/ngsh/issues"
+  },
+  "copyright": {
+    "title": "Next Gen Shell",
+    "years": [
+      2017
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
