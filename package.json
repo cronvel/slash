@@ -1,6 +1,6 @@
 {
   "name": "ngsh",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A Node.js shell.",
   "main": "lib/Ngsh.js",
   "engines": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "async-kit": "^2.2.3",
     "child_pty": "^3.0.7",
-    "fs-kit": "^0.1.6",
+    "fs-kit": "^0.1.9",
     "minimist": "^1.2.0",
     "shell-quote": "^1.6.1",
     "string-kit": "^0.5.15",
