@@ -21,7 +21,7 @@
     "minimist": "^1.2.0",
     "shell-quote": "^1.6.1",
     "string-kit": "^0.5.15",
-    "terminal-kit": "^1.0.2"
+    "terminal-kit": "^1.0.3"
   },
   "optionalDependencies": {
     "termios": "^0.1.6"
