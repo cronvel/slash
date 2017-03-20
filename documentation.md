@@ -9,7 +9,8 @@ Bash checklist:
 * ~prompt customization~
 * ~history~
 * ~auto-completion~
-* wildcard globbing
+* ~wildcard globbing~
 * aliases
 * I/O redirections, pipes
 * backticks
+
