@@ -11,6 +11,7 @@ Bash checklist:
 * ~auto-completion~
 * ~wildcard globbing~
 * aliases
-* I/O redirections, ~pipes~
+* conditional
+* ~I/O redirections, pipes~
 * backticks
 
