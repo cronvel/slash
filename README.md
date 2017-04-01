@@ -14,4 +14,4 @@ Bash checklist:
 * conditional
 * ~I/O redirections, pipes~
 * backticks
-
+* background/foreground job management
