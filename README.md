@@ -11,7 +11,8 @@ Bash checklist:
 * ~auto-completion~
 * ~wildcard globbing~
 * aliases
-* conditional
+* ~conditional~
 * ~I/O redirections, pipes~
 * backticks
-* background/foreground job management
+* background, parallel, detached jobs
+
