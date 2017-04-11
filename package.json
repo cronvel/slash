@@ -1,6 +1,6 @@
 {
   "name": "ngsh",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A Node.js shell.",
   "main": "lib/Ngsh.js",
   "engines": {
@@ -22,7 +22,7 @@
     "kung-fig": "^0.36.2",
     "minimist": "^1.2.0",
     "string-kit": "^0.5.15",
-    "terminal-kit": "^1.0.3"
+    "terminal-kit": "^1.2.5"
   },
   "optionalDependencies": {
     "termios": "^0.1.6"
