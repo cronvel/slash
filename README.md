@@ -13,7 +13,7 @@ Bash checklist:
 * aliases
 * ~conditional~
 * ~I/O redirections, pipes~
-* backticks: wont be supported, use $()
-* $()
+* ~$()~
+* ~backticks: wont be supported, use $()~
 * background, parallel, detached jobs
 
