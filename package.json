@@ -13,7 +13,7 @@
     "ngsh": "./bin/ngsh"
   },
   "dependencies": {
-    "@cronvel/shell-quote": "^1.6.5",
+    "@cronvel/shell-quote": "^1.6.7",
     "async-kit": "^2.2.3",
     "babel-tower": "^0.12.2",
     "child_pty": "^3.0.7",
