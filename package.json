@@ -1,6 +1,6 @@
 {
-  "name": "ngsh",
-  "version": "0.1.10",
+  "name": "slash-shell",
+  "version": "0.1.11",
   "description": "The hackable shell.",
   "main": "lib/Slash.js",
   "engines": {
