@@ -21,8 +21,8 @@
     "glob": "^7.1.1",
     "kung-fig": "^0.36.2",
     "minimist": "^1.2.0",
-    "string-kit": "^0.5.15",
-    "terminal-kit": "^1.2.6"
+    "string-kit": "^0.5.18",
+    "terminal-kit": "^1.2.7"
   },
   "optionalDependencies": {
     "termios": "^0.1.6"
