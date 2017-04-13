@@ -2,8 +2,6 @@
 
 # Slash: The Hackable Shell.
 
-Project moved to [slash-shell](https://www.npmjs.com/package/slash-shell).
-
 Early alpha.
 
 Bash checklist:
