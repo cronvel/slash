@@ -1,6 +1,8 @@
 
 
-# ngsh: The Next Gen Shell
+# Slash: The Hackable Shell.
+
+Project moved to [slash-shell](https://www.npmjs.com/package/slash-shell).
 
 Early alpha.
 

@@ -1,6 +1,8 @@
 
 
-# ngsh: The Next Gen Shell
+# Slash: The Hackable Shell.
+
+Project moved to [slash-shell](https://www.npmjs.com/package/slash-shell).
 
 Early alpha.
 
@@ -13,7 +15,6 @@ Bash checklist:
 * aliases
 * ~conditional~
 * ~I/O redirections, pipes~
-* $(): ~basic cases~, advanced cases
-* ~backticks: wont be supported, use $()~
+* backticks
 * background, parallel, detached jobs
 

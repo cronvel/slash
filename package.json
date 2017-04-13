@@ -1,8 +1,8 @@
 {
   "name": "ngsh",
-  "version": "0.1.9",
-  "description": "A Node.js shell.",
-  "main": "lib/Ngsh.js",
+  "version": "0.1.10",
+  "description": "The hackable shell.",
+  "main": "lib/Slash.js",
   "engines": {
     "node": ">=6.0.0"
   },
@@ -10,7 +10,7 @@
     "test": "test"
   },
   "bin": {
-    "ngsh": "./bin/ngsh"
+    "slash": "./bin/slash"
   },
   "dependencies": {
     "@cronvel/shell-quote": "^1.6.7",
@@ -22,7 +22,7 @@
     "kung-fig": "^0.36.2",
     "minimist": "^1.2.0",
     "string-kit": "^0.5.15",
-    "terminal-kit": "^1.2.5"
+    "terminal-kit": "^1.2.6"
   },
   "optionalDependencies": {
     "termios": "^0.1.6"
@@ -33,18 +33,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cronvel/ngsh.git"
+    "url": "https://github.com/cronvel/slash.git"
   },
   "keywords": [
-    "shell"
+    "shell",
+    "hackable"
   ],
   "author": "Cédric Ronvel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cronvel/ngsh/issues"
+    "url": "https://github.com/cronvel/slash/issues"
   },
   "copyright": {
-    "title": "Next Gen Shell",
+    "title": "Slash",
     "years": [
       2017
     ],
