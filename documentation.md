@@ -10,7 +10,7 @@ Bash checklist:
 * ~history~
 * ~auto-completion~
 * ~wildcard globbing~
-* aliases
+* ~aliases~
 * ~conditional~
 * ~I/O redirections, pipes~
 * backticks
