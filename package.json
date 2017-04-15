@@ -1,6 +1,6 @@
 {
   "name": "slash-shell",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "The hackable shell.",
   "main": "lib/Slash.js",
   "engines": {
